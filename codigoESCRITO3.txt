@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC>
+<HTML>
+<HEAD>  
+       <TITLE> LA MUSICA </TITLE>
+</HEAD>
+<BODY BACKGROUND="C:\Users\Jesus\Documents\PAGINA WEB\fondico3.JPG">
+
+            <FONT COLOR=white><CENTER><H1><B>LA MUSICA</B></H1></CENTER></FONT>
+
+<HR SIZE="20" COLOR="pink">
+       <FONT COLOR=white><FONT FACE="algerian"><FONT SIZE="6"><CENTER> Surgimiento de la música</CENTER></FONT>
+<BR>
+
+           <P ALIGN=RIGHT> <LI><OL><FONT SIZE="5"><FONT FACE="BANHNSRIFT LIGHT SEMICONDENSED ">
+El origen de la música es desconocido,
+<BR> 
+ya que inicialmente no se utilizaban 
+<BR>
+instrumentos musicales para interpretarla, 
+<BR>
+sino la voz humana, o la percusión corporal,
+<BR> 
+que no dejan huella en el registro arqueológico.
+<BR> 
+Se puede inferir que la música se descubrió
+<BR>
+ en un momento similar a la aparición del lenguaje. 
+<BR>
+El cambio de altura musical en el lenguaje produce un canto, 
+<BR>
+de manera que es probable que en
+<BR>
+ los orígenes apareciera de esta manera.</FONT></p></LI></OL>
+<BR>
+
+<IMG SRC="C:\Users\Jesus\Documents\PAGINA WEB\intrumentos.JPG" ALIGN=LEFT>
+<P ALIGN=RIGHT ><FONT FACE="BANHNSRIFT LIGHT SEMICONDENSED " >
+De hecho, el origen de la música escrita
+<BR>
+ (utilizando los primeros símbolos) resale
+<BR>
+ alrededor del siglo VI de la era cristiana.
+<BR>
+ Sin embargo, estos símbolos eran muy 
+<BR>
+limitados y no permitían cubrir 
+<BR>
+adecuadamente todas las extensiones musicales 
+<BR>
+y la complejidad armónica.
+<BR>
+<BR>
+
+<A HREF="https://babyradio.es/blogfamiliar/el-origen-de-la-musica/">BIBLIOGRAFIA</A>
+
+
+
+</BOBY>
+</HTML>
